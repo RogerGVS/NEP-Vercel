@@ -843,6 +843,10 @@ section{
     margin-top: 14%;
   }
 
+  .header .action_btn{
+    margin-right: 20%;
+  }
+
 }
 
 @media (max-width:450px){
