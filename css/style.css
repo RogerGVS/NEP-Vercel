@@ -806,6 +806,9 @@ section{
   .about .container .about-content{
     padding-left: 0;
   }
+  .header .action_btn{
+    display: none;
+  }
 
 }
 
