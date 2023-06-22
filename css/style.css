@@ -797,6 +797,10 @@ section{
   .contact .row form .box{
     width: 60%;
   }
+  
+  .contact .button{
+    width: 60%;
+  }
 
 }
 
