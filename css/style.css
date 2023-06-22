@@ -807,6 +807,10 @@ section{
     padding-left: 0;
   }
 
+  .header .action_btn{
+    display: none;
+  }
+
 }
 
 @media (max-width:450px){
