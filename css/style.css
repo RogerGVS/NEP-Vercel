@@ -808,6 +808,7 @@ section{
 
   #menu-btn{
     display: inline-block;
+    margin-left: 5%;
   }
 
   .header .navbar{
