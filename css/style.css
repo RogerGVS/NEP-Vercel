@@ -59,6 +59,25 @@ section{
   margin-top: -1rem;
 }
 
+.heading_form{
+  position: relative;
+  color: var(--primary-color);
+  font-size: 3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .4rem;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.headind_form::after{
+  content: url('../images/separator.svg');
+  display: block;
+  width: 10rem;
+  margin-inline: auto;
+  margin-top:-1rem;
+}
+
 .btn{
   position: relative;
   display: inline-block;
@@ -769,6 +788,10 @@ section{
 
   section{
     padding: 3rem 2rem;
+  }
+
+  .contact{
+    margin-top: 10%;
   }
 
 }
