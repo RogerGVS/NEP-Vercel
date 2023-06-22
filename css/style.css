@@ -794,6 +794,10 @@ section{
     margin-top: 14%;
   }
 
+  .contact .row form .box{
+    width: 60%;
+  }
+
 }
 
 @media (max-width:768px){
