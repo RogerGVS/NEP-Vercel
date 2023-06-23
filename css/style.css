@@ -245,7 +245,7 @@ section{
   display: flex;
   align-items: center;
   background: url(../images/Capa-Inicio.jpg) no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
 }
 
@@ -306,7 +306,7 @@ section{
   display: flex;
   align-items: center;
   background: url(../images/Anos-Iniciais-Capa.jpg) no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
 }
 
@@ -337,7 +337,7 @@ section{
   display: flex;
   align-items: center;
   background: url(../images/Anos-Finais-Capa.jpg) no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
 }
 
@@ -369,7 +369,7 @@ section{
   display: flex;
   align-items: center;
   background: url(../images/Lingua-Inglesa-Capa.jpg) no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
 }
 
