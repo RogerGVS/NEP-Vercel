@@ -850,6 +850,10 @@ section{
     margin-right: 3.5%;
   }
 
+  .header .icons{
+    display: block;
+  }
+
 }
 
 @media (max-width:450px){
