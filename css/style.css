@@ -275,7 +275,7 @@ section{
   display: flex;
   align-items: center;
   background: url(../images/Educação-Infantil-Capa.jpg) no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
 }
 
