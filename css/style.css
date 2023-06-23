@@ -165,6 +165,10 @@ section{
   padding: 2rem 9%;
 }
 
+.header .icons{
+  display: none;
+}
+
 .header .logo{
   font-size: 1.85rem;
   font-weight: bolder;
