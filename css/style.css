@@ -579,7 +579,7 @@ section{
 
 .blog .box-container .box .image{
   height: 25rem;
-  width: 100%;
+  width: 95%;
   overflow: hidden;
   position: relative;
   border-radius: 2rem 2rem 0 0;
@@ -609,6 +609,12 @@ section{
   padding: 2rem 2rem;
   background: var(--secondary);
   border-radius: 0 0 2rem 2rem;
+}
+
+.blog .box-container .box .content .btn{
+  position: relative;
+  display: inline-block;
+  justify-content: space-between;
 }
 
 .blog .box-container .box .content .icons{
