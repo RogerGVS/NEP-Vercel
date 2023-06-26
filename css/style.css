@@ -611,12 +611,6 @@ section{
   border-radius: 0 0 2rem 2rem;
 }
 
-.blog .box-container .box .content .btn{
-  position: relative;
-  display: inline-block;
-  justify-content: space-between;
-}
-
 .blog .box-container .box .content .icons{
   margin-bottom: 1rem;
   align-items: center;
