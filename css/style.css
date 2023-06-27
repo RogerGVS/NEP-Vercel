@@ -579,7 +579,7 @@ section{
 
 .blog .box-container .box .image{
   height: 25rem;
-  width: 95%;
+  width: 100%;
   overflow: hidden;
   position: relative;
   border-radius: 2rem 2rem 0 0;
