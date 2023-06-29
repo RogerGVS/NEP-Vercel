@@ -887,6 +887,54 @@ section{
     font-size: 50%;
   }
   
+  #menu-btn{
+    display: inline-block;
+  }
+
+  .header .navbar{
+    position: absolute;
+    top: 110%; right: -110%;
+    width: 30rem;
+    box-shadow: var(--box-shadow);
+    border-radius: .5rem;
+    background: var(--white);
+  }
+
+  .header .navbar.active{
+    right: 2rem;
+    transition: .4s linear;
+  }
+
+  .header .navbar a{
+    font-size: 2rem;
+    margin: 1rem 2.5rem;
+    display: block;
+  }
+
+  .home{
+    height: 100%;
+  }
+
+  .home .content h3{
+    font-size: 3rem;
+  }
+
+  .about .container .about-content{
+    padding-left: 0;
+  }
+
+  .contact{
+    margin-top: 14%;
+  }
+
+  .header .action_btn{
+    margin-right: 3.5%;
+  }
+
+  .header .icons{
+    display: block;
+  }
+
   .home{
     min-height: 370px;
   }
