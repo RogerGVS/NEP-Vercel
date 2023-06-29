@@ -824,6 +824,10 @@ section{
     gap: 1.5rem;
   }
 
+  .home{
+    height: 100%;
+  
+  }
 }
 
 @media (max-width:768px){
