@@ -886,4 +886,8 @@ section{
   html{
     font-size: 50%;
   }
+  
+  .home{
+    min-height: 300px;
+  }
 }
