@@ -787,9 +787,6 @@ section{
     grid-template-columns: repeat(auto-fit, minmax(37.8rem, 37.7rem));
     gap: 1.5rem;
   }
-
-
-
 }
 
 @media (max-width:991px){
@@ -825,7 +822,7 @@ section{
   }
 
   .home{
-    height: 100%;
+    min-height: 600px;
   
   }
 }
@@ -834,6 +831,11 @@ section{
 
   #menu-btn{
     display: inline-block;
+  }
+
+  .home{
+    min-height: 550px;
+  
   }
 
   .header .navbar{
