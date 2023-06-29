@@ -856,6 +856,10 @@ section{
     display: block;
   }
 
+  .home{
+    height: 100%;
+  }
+
   .home .content h3{
     font-size: 3rem;
   }
