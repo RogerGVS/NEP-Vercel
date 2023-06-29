@@ -817,6 +817,12 @@ section{
   .contact .button{
     width: 100%;
   }
+  
+  .blog .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(37.8rem, 1fr));
+    gap: 1.5rem;
+  }
 
 }
 
