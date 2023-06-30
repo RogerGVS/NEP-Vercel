@@ -942,4 +942,16 @@ section{
   .home_edu_inf{
     min-height: 400px;
   }
+
+  .home_anos_iniciais{
+    min-height: 400px;
+  }
+
+  .home_anos_finais{
+    min-height: 400px;
+  }
+
+  .home_ingles{
+    min-height: 400px;
+  }
 }
