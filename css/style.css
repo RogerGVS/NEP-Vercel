@@ -792,6 +792,10 @@ section{
 
 @media (max-width:1001px){
 
+  #menu-btn{
+    display: inline-block;
+  }
+
   html{
     font-size: 55%;
   }
