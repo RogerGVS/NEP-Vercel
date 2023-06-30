@@ -824,6 +824,22 @@ section{
   .home{
     min-height: 600px;
   }
+
+  .home_edu_inf{
+    min-height: 600px;
+  }
+
+  .home_anos_iniciais{
+    min-height: 600px;
+  }
+
+  .home_anos_finais{
+    min-height: 600px;
+  }
+
+  .home_ingles{
+    min-height: 600px;
+  }
 }
 
 @media (max-width:768px){
