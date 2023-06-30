@@ -782,7 +782,7 @@ section{
 
 /* media queries */
 
-@media (max-width:1400px) {
+@media (max-width:1366px) {
   .blog .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(37.8rem, 37.7rem));
