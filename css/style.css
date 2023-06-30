@@ -936,22 +936,22 @@ section{
   }
 
   .home{
-    min-height: 400px;
+    min-height: 350px;
   }
 
   .home_edu_inf{
-    min-height: 370px;
+    min-height: 330px;
   }
 
   .home_anos_iniciais{
-    min-height: 370px;
+    min-height: 330px;
   }
 
   .home_anos_finais{
-    min-height: 370px;
+    min-height: 330px;
   }
 
   .home_ingles{
-    min-height: 370px;
+    min-height: 330px;
   }
 }
