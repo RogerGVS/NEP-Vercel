@@ -938,4 +938,8 @@ section{
   .home{
     min-height: 400px;
   }
+
+  .home_edu_inf{
+    min-height: 400px;
+  }
 }
