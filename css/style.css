@@ -816,6 +816,14 @@ section{
     display: block;
   }
 
+  .header .action_btn{
+    margin-right: 3.5%;
+  }
+
+  .header .icons{
+    display: block;
+  }
+
   html{
     font-size: 55%;
   }
