@@ -83,13 +83,13 @@ section{
   display: inline-block;
   margin-top: 1rem;
   color: var(--primary-color);
-  font-size: 1.4rem;
+  font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
   max-width: max-content;
   border: .1rem solid var(--primary-color);
   background: var(--secondary);
-  padding: 1.2rem 4.5rem;
+  padding: 1.1rem 4.5rem;
   overflow: hidden;
   z-index: 1;
   border-radius: .5rem;
@@ -580,7 +580,7 @@ section{
 }
 
 .blog .box-container .box .image{
-  height: 20rem;
+  height: 12rem;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -628,7 +628,7 @@ section{
 }
 
 .blog .box-container .box .content h3{
-  font-size: 2.2rem;
+  font-size: 1.5rem;
   color: var(--black);
 }
 
@@ -785,7 +785,7 @@ section{
 @media (max-width:1366px) {
   .blog .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(37.8rem, 37.7rem));
+    grid-template-columns: repeat(auto-fill, minmax(1px, 222px));
     gap: 1.5rem;
   }
 
@@ -794,6 +794,10 @@ section{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
     gap: 2rem;
+  }
+
+  .btn{
+    padding: 1.1rem 6.2rem;
   }
 
 }
