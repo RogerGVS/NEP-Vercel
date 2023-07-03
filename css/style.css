@@ -785,7 +785,7 @@ section{
 @media (max-width:1366px) {
   .blog .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(1px, 222px));
+    grid-template-columns: repeat(auto-fill, minmax(1px, 221px));
     gap: 1.5rem;
   }
 
@@ -797,7 +797,7 @@ section{
   }
 
   .btn{
-    padding: 1.1rem 6.2rem;
+    padding: 1.1rem 6rem;
   }
 
 }
