@@ -420,8 +420,8 @@ section{
 
 .about .container .about-content{
   flex: 1 1 50rem;
-  padding-left: 6rem;
-  padding-top: 8rem;
+  padding-left: 3rem;
+  padding-top: 2rem;
 }
 
 .about .container .about-content h3{
