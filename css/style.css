@@ -570,7 +570,7 @@ section{
 
 .blog .box-container{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(32rem, 1fr));
   gap: 1.5rem;
 }
 
@@ -580,7 +580,7 @@ section{
 }
 
 .blog .box-container .box .image{
-  height: 12rem;
+  height: 20rem;
   width: 100%;
   overflow: hidden;
   position: relative;
