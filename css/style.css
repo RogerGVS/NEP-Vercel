@@ -804,9 +804,10 @@ section{
 }
 
 @media (max-width:1366px) {
+
   .blog .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(1px, 221px));
+    grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
     gap: 1.5rem;
   }
 
