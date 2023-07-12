@@ -874,8 +874,12 @@ section{
     padding: 1.1rem 6rem;
   }
 
-  .about .container .about-image img{
-    width: 100%;
+  .about_index .container .about-image img{
+    width: 80%;
+  }
+
+  .about_index .container .about-content p{
+    font-size: 1.6rem;
   }
 
 }
