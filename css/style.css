@@ -88,7 +88,7 @@ section{
   text-transform: uppercase;
   text-align: center;
   width: 100%;
-  border: .1rem solid var(--primary-color);
+  border: .2rem solid var(--primary-color);
   background: var(--secondary);
   padding: 1.1rem 4.5rem;
   overflow: hidden;
