@@ -787,10 +787,10 @@ section{
 .footer .box-container .box .share a{
   height: 4.5rem;
   width: 4.5rem;
-  line-height: 4.5rem;
+  line-height: 4.4rem;
   border-radius: 10%;
   font-size: 1.7rem;
-  border: .1rem solid var(--primary-color);
+  border: .2rem solid var(--primary-color);
   color: var(--primary-color);
   margin-right: .3rem;
   text-align: center;
