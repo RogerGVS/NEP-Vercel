@@ -415,9 +415,9 @@ section{
 
 .about .container .about-image .about-img{
   position: absolute;
-  bottom: -10rem;
-  right: -1rem;
-  width: 25rem;
+  bottom: -5rem;
+  right: 3%;
+  width: 15rem;
   padding-block: 5rem;
 }
 
